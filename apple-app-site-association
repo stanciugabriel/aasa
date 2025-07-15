@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "8SHQGK682T.ro .openlabs.stash",
+        "appID": "8SHQGK682T.ro.openlabs.stash",
         "paths": [ "/import/*" ]
       }
     ]
